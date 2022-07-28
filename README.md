@@ -1,4 +1,4 @@
-# Jacky-s-ML-notebook
+# Jacky's ML Notebook
 For the convenience of future review, I will upload some Machine learning-related notes, which may be in Chinese or English (mainly for personal use).
 
 So far, you can find the following contents in my repository:
