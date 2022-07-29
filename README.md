@@ -3,5 +3,6 @@ For the convenience of future review, I will upload some Machine learning-relate
 
 So far, you can find the following contents in my repository:
 
-1. RMSprop
-2. Exponentially Weighted Averages
+1. Exponentially Weighted Averages
+2. Gradient Descent with Momentum
+3. RMSprop
